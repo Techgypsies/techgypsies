@@ -1,5 +1,7 @@
 ---
-published: true
+layout: post
+title: 'Techgypsies, Rebooted'
+url: http://techgypsi.es/2013/12/26/rebooting-techgypsies/
 ---
 
 ## Techgypsies, Rebooted
