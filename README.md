@@ -1,4 +1,4 @@
 techgypsies
 ===========
 
-This is the techngypsies site.
+This is the techgypsies site.
