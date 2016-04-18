@@ -22,10 +22,10 @@ paginate:	5
 paginate_path: "/blog/page:num"
 permalink: /:categories/:year/:month/:day/:title 
 
-url: "http://2016trends.hackeducation.com" # the base hostname & protocol for your site
+url: "http://techgypsi.es" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@hackeducation'
+twitter_handle:
 
 # social icons and sharing options
 social:
