@@ -5,7 +5,7 @@ highlighter: rouge
 # Site settings
 title: "Tech Gypsies"
 description: > # this means to ignore newlines until "email:"
-   A Hack Education Project & API Evangelist Production
+   A Hack Education & API Evangelist Production
 
 email: info@kinlane.com
 #blog logo
