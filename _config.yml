@@ -1,0 +1,74 @@
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Site settings
+title: "Tech Gypsies"
+description: > # this means to ignore newlines until "email:"
+   A Hack Education Project & API Evangelist Production
+
+email: info@kinlane.com
+#blog logo
+logo: "/assets/images/logo.png"
+# blog cover
+cover: "/assets/images/wheel.jpg"
+covercredits: "https://www.flickr.com/photos/cogdog/4246026511"
+
+name: 'Tech Gypsies'
+author: 'Tech Gypsies'
+author_image: "/assets/images/author.png"
+
+paginate:	5
+paginate_path: "/blog/page:num"
+permalink: /:categories/:year/:month/:day/:title 
+
+url: "http://2016trends.hackeducation.com" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@hackeducation'
+
+# social icons and sharing options
+social:
+  - icon:   
+    url:    
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&url="
+
+  - icon:   
+    url:    
+    desc: Like me on facebook
+    share_url: http://www.facebook.com/sharer/sharer.php
+    share_title: ?title=
+    share_link: "?u="
+
+  - icon:   github
+    url:    https://github.com/Techgypsies/techgypsies
+    desc:   Fork me on github
+    share_url: 
+    share_title:
+    share_link:
+
+ # - icon:  google-plus
+ #   url:   
+ #   desc:  
+ #   share_url:
+ #   share_title:
+ #   share_link:
+
+  - icon: rss
+    url:  http://techgypsi.es/feed.xml
+    desc: Subscribe
+    share_url:
+    share_title:
+    share_link:
+
+  - icon: envelope
+    url:  mailto:info@kinlane.com
+    desc: Email
+    share_url:
+    share_title:
+    share_link:    
+  
+
