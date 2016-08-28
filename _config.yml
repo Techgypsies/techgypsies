@@ -7,7 +7,7 @@ title: "Tech Gypsies"
 description: > # this means to ignore newlines until "email:"
    A Hack Education & API Evangelist Production
 
-email: info@kinlane.com
+email: info@techgypsi.es
 #blog logo
 logo: "/assets/images/logo.png"
 # blog cover
@@ -15,7 +15,7 @@ cover: "/assets/images/wheel.jpg"
 covercredits: "https://www.flickr.com/photos/cogdog/4246026511"
 
 name: 'Tech Gypsies'
-author: 'Tech Gypsies'
+author: 'Audrey Watters'
 author_image: "/assets/images/author.png"
 
 paginate:	5
@@ -65,7 +65,7 @@ social:
     share_link:
 
   - icon: envelope
-    url:  mailto:info@kinlane.com
+    url:  mailto:info@techgypsi.es
     desc: Email
     share_url:
     share_title:
