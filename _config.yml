@@ -16,7 +16,9 @@ covercredits: "https://www.flickr.com/photos/cogdog/4246026511"
 
 name: 'Tech Gypsies'
 author: 'Audrey Watters'
-author_image: "/assets/images/author.png"
+author_image: "/assets/images/author_aw.jpg"
+author2: 'Kin Lane'
+author_image2: "/assets/images/author_kl.jpg"
 
 paginate:	5
 paginate_path: "/blog/page:num"
