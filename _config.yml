@@ -1,4 +1,4 @@
-# Build settings
+x# Build settings
 markdown: kramdown
 highlighter: rouge
 
@@ -10,6 +10,7 @@ description: > # this means to ignore newlines until "email:"
 email: info@contrafabulists.com
 #blog logo
 logo: "/assets/images/cog.jpg"
+logo2: "/assets/images/cog_tr.png"
 # blog cover
 cover: "/assets/images/owl.jpg"
 covercredits: "http://bryanmmathers.com"
