@@ -1,4 +1,4 @@
-x# Build settings
+# Build settings
 markdown: kramdown
 highlighter: rouge
 
