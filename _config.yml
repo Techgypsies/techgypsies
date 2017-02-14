@@ -3,18 +3,18 @@ markdown: kramdown
 highlighter: rouge
 
 # Site settings
-title: "Tech Gypsies"
+title: "Contrafabulists (Formerly Known As Tech Gypsies)"
 description: > # this means to ignore newlines until "email:"
    A Hack Education & API Evangelist Production
 
-email: info@techgypsi.es
+email: info@contrafabulists.com
 #blog logo
-logo: "/assets/images/logo.png"
+logo: "/assets/images/cog.jpg"
 # blog cover
-cover: "/assets/images/wheel.jpg"
-covercredits: "https://www.flickr.com/photos/cogdog/4246026511"
+cover: "/assets/images/owl.jpg"
+covercredits: "http://bryanmmathers.com"
 
-name: 'Tech Gypsies'
+name: 'Contrafabulists'
 author: 'Audrey Watters'
 author_image: "/assets/images/author_aw.jpg"
 author2: 'Kin Lane'
@@ -31,15 +31,15 @@ twitter_handle:
 
 # social icons and sharing options
 social:
-  - icon:   
-    url:    
+  - icon:   twitter
+    url:    https://twitter.com/contrafabulists
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&url="
 
-  - icon:   
-    url:    
+  - icon:   facebook
+    url: https://facebook.com/contrafabulists  
     desc: Like me on facebook
     share_url: http://www.facebook.com/sharer/sharer.php
     share_title: ?title=
@@ -67,7 +67,7 @@ social:
     share_link:
 
   - icon: envelope
-    url:  mailto:info@techgypsi.es
+    url:  mailto:info@contrafabulists.com
     desc: Email
     share_url:
     share_title:
